@@ -11,4 +11,4 @@ This directory contains documented defects and performance observations for:
 * **Approach:** Exploratory testing focused on cross-platform consistency and metadata integrity.
 
 ## 📂 Active Reports
-* [WEB-001: Missing Favicon on Job Templates](./WEB-001-missing-favicon-Job-Detail.md)
+* [WEB-001: Missing Favicon on Job Templates](./WEB-001-Missing-Favicon-Job-Detail.md)
