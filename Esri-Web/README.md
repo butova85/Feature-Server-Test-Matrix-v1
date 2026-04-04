@@ -12,3 +12,4 @@ This directory contains documented defects and performance observations for:
 
 ## 📂 Active Reports
 * [WEB-001: Missing Favicon on Job Templates](./WEB-001-Missing-Favicon-Job-Detail.md)
+* [WEB-002: MOOC: Cartography integrity failure](./WEB-002-esri-training-catalog-integrity-failure.md)
